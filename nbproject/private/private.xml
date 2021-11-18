@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/pracaZad/database/migrations/2014_10_12_000000_create_accommodation_schedules_table.php</file>
+            <file>file:/var/www/html/pracaZad/app/Http/Controllers/ControllerZad2.php</file>
+            <file>file:/var/www/html/pracaZad/routes/web.php</file>
+            <file>file:/var/www/html/pracaZad/app/Http/Controllers/Controller.php</file>
+            <file>file:/var/www/html/pracaZad/resources/views/welcome.blade.php</file>
+            <file>file:/var/www/html/pracaZad/app/Http/Controllers/ControllerZad1.php</file>
+            <file>file:/var/www/html/pracaZad/app/Models/accommodation_schedule.php</file>
+            <file>file:/var/www/html/pracaZad/database/migrations/2010_10_12_100000_create_estates_table.php</file>
+            <file>file:/var/www/html/pracaZad/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php</file>
+            <file>file:/var/www/html/pracaZad/database/migrations/2011_08_11_000000_create_rooms_table.php</file>
+            <file>file:/var/www/html/pracaZad/app/Http/Services/Dates.php</file>
+            <file>file:/var/www/html/pracaZad/app/Models/Room.php</file>
+            <file>file:/var/www/html/pracaZad/app/Models/User.php</file>
+        </group>
+    </open-files>
+</project-private>
